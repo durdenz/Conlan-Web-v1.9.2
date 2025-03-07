@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="./css/floorplans.css">
+    <link rel="stylesheet" href="./css/navbar.css">
+
+	<link rel="icon" type="img/png" href="./img/favicon-32x32.png" sizes="32x32">
+
+    <title>Conlan Professional Center</title>
+</head>
+<body>
+<!-- NavBar -->
+    <nav class="main-nav">
+		<ul>
+			<li><a href="./index.html"> <img src="./img/Conlan Logo -512x512.png" alt="Conlan Logo"></a></li>
+			<li><a class="button" href="./index.html#section-a">Features</a></li>
+			<li><a class="button" href="./index.html#section-c">Photos</a></li>
+			<li><a class="button" href="./index.html#section-d">Virtual Tour</a></li>
+			<li><a class="button" href="./floorplans.html">FloorPlans</a></li>
+			<li><a class="button" href="./index.html#section-e">Location</a></li>
+			<li><a class="button" href="./index.html#section-e">Contact</a></li>
+		</ul>
+	</nav>
+    <div class="ImageHeader">
+        <h2>FLOORPLANS</h2>
+    </div>
+<!-- Container for the image gallery -->
+<div class="outer">
+<div class="container">
+    <div class="slide">
+        <!-- Full-width images with number text -->
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Floor 1.jpg">
+        </div>
+    
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Floor 2.jpg">
+        </div>
+    
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Suite 1 2.png">
+        </div>
+    
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Suite 3 4 5.png" style="height:600px">
+        </div>
+    
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Suite 6.png" style="height:600px">
+        </div>
+    
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Suite 7.png" style="height:600px">
+        </div>
+
+        <div class="mySlides">
+            <img src="./img/FloorPlans/Suite 8.png" style="height:600px">
+        </div>
+
+        <div class="mySlides">
+          <img src="./img/FloorPlans/Suite 120 130.png" style="height:600px">
+      </div>
+  
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+        <!-- Image text -->
+        <div class="caption-container">
+        <p id="caption"></p>
+    </div>
+    <!-- Thumbnail images -->
+    <div class="row">
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Floor 1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Floor 1">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Floor 2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Floor 2">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 1 2.png" style="width:100%" onclick="currentSlide(3)" alt="Suites 1 & 2">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 3 4 5.png" style="width:100%" onclick="currentSlide(4)" alt="Suites 3, 4, 5">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 6.png" style="width:100%" onclick="currentSlide(5)" alt="Suite 6">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 7.png" style="width:100%" onclick="currentSlide(6)" alt="Suite 7">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 8.png" style="width:100%" onclick="currentSlide(7)" alt="Suite 8">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="./img/FloorPlans/Suite 120 130.png" style="width:100%" onclick="currentSlide(7)" alt="Suite 120 130">
+      </div>
+    </div>
+  </div>
+  </div> <!-- Outer Container -->
+  <script src="./js/floorplans.js"> </script>
+</body>
+</html>
