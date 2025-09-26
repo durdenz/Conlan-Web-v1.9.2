@@ -1,2 +1,2 @@
-Version 1.9.4
-Published 09172025
+Version 1.9.5
+Published 09262025

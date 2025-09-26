@@ -79,7 +79,7 @@ body {
 }
 
 .officeName{
-    padding-top: 10px;
+    /* padding-top: 10px; */
     text-align: center;
 }
 
@@ -101,7 +101,8 @@ body {
 
 .contactCard {
     /* background-color: #2690d4; */
-    background-color: var(--conlangreen);
+    /* background-color: var(--conlangreen); */
+    background-color: #7af4d5;
     border-radius: 20px;
     margin-bottom: 20px;
     padding-top: 10px;
@@ -139,6 +140,7 @@ body {
 .spaceBtn {
     height: 50px; width: 50%; 
     margin-left: 25%; 
+    margin-top: 10%;
     margin-bottom: 10px;
     font-weight: bold;
     font-size: large;
@@ -148,7 +150,34 @@ body {
 }
 
 .spaceBtn:hover {
-    background-color: var(--conlangreen);
+    /* background-color: var(--conlangreen); */
+    background-color: #7af4d5;
+}
+
+.Available {
+background-color: #7af4d5; 
+color: #000;
+}
+
+.NotAvailable {
+    background-color: lightsalmon;
+    color:#000;
+}
+
+.sticker {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    width: 60%;
+    height: 6vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: medium;
 }
 
 /* Media Queries */

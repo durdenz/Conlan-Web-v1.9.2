@@ -274,7 +274,8 @@ p {
 
 #section-e .box:first-child {
 	/* background: #2690D4 */
-	background-color: var(--conlangreen);
+	/* background-color: var(--conlangreen); */
+	background-color: #7af4d5;
 }
 
 #section-e a {
@@ -287,6 +288,7 @@ p {
 	text-align: left;
 	margin-left: 20%;
 	list-style-position: inside;
+	font-size: 18pt;
 }
 
 #section-e li:first-child {
