@@ -1,7 +1,7 @@
 /* CSS Variables */
 :root {
 	--conlanlight: #D3CBAF;
-    --conlangreen: #437E6F;
+    --conlangreen: #7AF4D5;
 	--primary: #ddd;
 	--dark: #333;
 	--light: #fff;
@@ -274,8 +274,8 @@ p {
 
 #section-e .box:first-child {
 	/* background: #2690D4 */
-	/* background-color: var(--conlangreen); */
-	background-color: #7af4d5;
+	background-color: var(--conlangreen);
+	/* background-color: #7af4d5; */
 }
 
 #section-e a {
