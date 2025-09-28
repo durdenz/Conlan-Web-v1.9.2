@@ -1,2 +1,4 @@
-Version 1.9.5
-Published 09262025
+Version 1.9.6
+Published 09282025
+
+- Added CoWork to Spaces and Space Pages
