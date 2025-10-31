@@ -185,6 +185,16 @@ color: #000;
     font-size: medium;
 }
 
+.vWalkthru {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.vWalkthru video {
+    height: 90vh;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Right 5px, Down 5px, 10px blur, 50% opaque black */
+}
+
 /* Media Queries */
 @media(max-width: 768px) {
     .navButtons {
