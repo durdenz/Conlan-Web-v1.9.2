@@ -2,3 +2,10 @@ Version 1.9.6
 Published 09282025
 
 - Added CoWork to Spaces and Space Pages
+
+Version 1.9.7
+Published 02082026
+
+- Added Suite 260 to Spaces and Space Pages
+- Updated Availability Status for Suite 7, 120-5, 120-6, 120-8
+
