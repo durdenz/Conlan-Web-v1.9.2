@@ -9,3 +9,9 @@ Published 02082026
 - Added Suite 260 to Spaces and Space Pages
 - Updated Availability Status for Suite 7, 120-5, 120-6, 120-8
 
+Version 1.9.9
+Published 06092026
+
+ - Updated S260 Availability to Leased
+ - Add new Floorplan to S8 page
+ 
