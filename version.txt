@@ -15,3 +15,10 @@ Published 06092026
  - Updated S260 Availability to Leased
  - Add new Floorplan to S8 page
  
+Version 1.9.10
+Published 09082026
+
+ - Updated Suite 120-8 Available $600/mo
+ - Added Suite 6 Available $1,300/mo
+ - Updated Spaces page to include new Suite 6 page
+ - Updated Suite 7 and CoWork pages to properly link to preceding and next space pages 
