@@ -22,3 +22,14 @@ Published 09082026
  - Added Suite 6 Available $1,300/mo
  - Updated Spaces page to include new Suite 6 page
  - Updated Suite 7 and CoWork pages to properly link to preceding and next space pages 
+
+Version 1.9.11
+Published 10/04/2026
+
+- Updated per Conlan Space Availability Document as of 10/04/2026
+- Changed the following to Leased:
+    - S8, S120-8, S120-9, S120-10
+- Changed the following to Available:
+    - S120-4: Added to Site ($650)
+    - S220: Added to Site ($1900), Created and Integrated Virtual Tour into Page
+- Fixed Linkages between pages for new pages
