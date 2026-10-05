@@ -33,3 +33,8 @@ Published 10/04/2026
     - S120-4: Added to Site ($650)
     - S220: Added to Site ($1900), Created and Integrated Virtual Tour into Page
 - Fixed Linkages between pages for new pages
+
+Version 1.9.12
+Published 10/05/2026
+
+- Updated to show S220 as Leased
